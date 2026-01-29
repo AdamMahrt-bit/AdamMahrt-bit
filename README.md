@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**AdamMahrt-bit/AdamMahrt-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adam 👋
 
-Here are some ideas to get you started:
+☁️ Beginner in IT & Cloud Services  
+💻 Learning and building projects step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I'm an aspiring IT & Cloud professional currently learning:
+- Cloud fundamentals (Azure)
+- Networking basics
+- Scripting and automation
+- Git & GitHub
+
+I enjoy turning curiosity into small projects and improving a little every day.
+
+---
+
+## 🛠️ Skills & Tools
+- Languages: Python, SQL, PowerShell, Bash, HTML, PHP, CSS (Beginner in all)
+- Cloud: Azure (learning)
+- Tools: Git, GitHub, VS Code, RapidMiner
+
+---
+
+## 📚 Interests
+- Manga 📖  
+- Cats 🐾  
+- Technology & problem-solving  
+
+---
+
+## 🌱 Current Goals
+- Build more hands-on projects
+- Earn cloud certifications
+- Grow my IT knowledge step by step
+
+---
+
+## 📫 Connect With Me
+- Email: AdamMahrt@gmail.com
+---
+
+✨ *This profile is a work in progress — always learning and improving.*

@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I'm an aspiring IT & Cloud professional currently learning:
 - Cloud fundamentals (Azure)
 - Networking basics
@@ -17,21 +17,21 @@ I enjoy turning curiosity into small projects and improving a little every day.
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 - Languages: Python, SQL, PowerShell, Bash, HTML, PHP, CSS (Beginner in all)
 - Cloud: Azure (learning)
 - Tools: Git, GitHub, VS Code, RapidMiner
 
 ---
 
-## 📚 Interests
+##  Interests
 - Manga 📖  
 - Cats 🐾  
 - Technology & problem-solving  
 
 ---
 
-## 🌱 Current Goals
+##  Current Goals
 - Build more hands-on projects
 - Earn cloud certifications
 - Grow my IT knowledge step by step
@@ -42,4 +42,4 @@ I enjoy turning curiosity into small projects and improving a little every day.
 - Email: AdamMahrt@gmail.com
 ---
 
-✨ *This profile is a work in progress — always learning and improving.*
+ *This profile is a work in progress — always learning and improving.*
